@@ -1,0 +1,82 @@
+site_name: RawBean Spills
+site_url: https://iamkshatree.github.io
+docs_dir: docs/
+theme:
+  name: material
+  favicon: 'img/logo.png'
+  logo: 'img/logo.png'
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  language: en
+  features:
+    - header.autohide
+    - navigation.tabs
+  icon:
+    repo: fontawesome/brands/github
+
+copyright: Copyright &copy; 2021 Rabin Kshatree
+markdown_extensions:
+  - meta
+  - abbr
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - pymdownx.highlight:
+      linenums_style: pymdownx.inline
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.keys
+  - pymdownx.tabbed
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.smartsymbols
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.arithmatex:
+      generic: true
+google_analytics:
+  - UA-123982485-1
+  - auto
+extra:
+  generator: false
+  disqus: thearjun
+  manifest: manifest.webmanifest
+  # social:
+  #   - icon: fontawesome/brands/linkedin
+  #     link: https://linkedin.com/in/thearjun
+  #   - icon: fontawesome/brands/github
+  #     link: https://github.com/thearjun
+  #   - icon: fontawesome/solid/envelope
+  #     link: mailto:mailarjunadhikari@gmail.com
+
+extra_javascript:
+  - javascripts/extra.js
+  - javascripts/config.js
+extra_css:
+  - stylesheets/extra.css
+nav:
+  - Introduction: index.md
