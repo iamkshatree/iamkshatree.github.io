@@ -3,7 +3,7 @@ site_url: https://iamkshatree.github.io
 docs_dir: docs/
 theme:
   name: material
-  favicon: 'img/logo.png'
+  favicon: 'img/favicon.jpg'
   logo: 'img/logo.png'
   palette:
     # Light mode
