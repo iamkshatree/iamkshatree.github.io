@@ -58,9 +58,6 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.arithmatex:
       generic: true
-google_analytics:
-  - UA-123982485-1
-  - auto
 extra:
   generator: false
   disqus: thearjun
@@ -79,4 +76,4 @@ extra_javascript:
 extra_css:
   - stylesheets/extra.css
 nav:
-  - Introduction: index.md
+  - Home: index.md

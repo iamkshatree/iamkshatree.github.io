@@ -1,1 +1,1 @@
-Hello everyone
+This blog is an attempt to make public some of the contents that were previously private in hope that it resonates with at least a few of those who read. The contents of the blogs are part fiction, part fantasies, part realities and part longings - all of which depends on how the reader wants to interpret. Since the blogger is a tyro, there may be more than one irregularities and inconsistencies which he hopes to be made known about. And lastly, any form of resemblance with characters or incidents are purely incidental. Happy reading!
