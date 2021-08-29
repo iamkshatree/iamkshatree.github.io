@@ -79,4 +79,6 @@ nav:
   - Home: index.md
   - Poems: 
       - H: poems/h.md
+  - Others:
+      -Apple or Cricket?: others/Apple or Cricket.md
 
