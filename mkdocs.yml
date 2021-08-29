@@ -79,3 +79,5 @@ nav:
   - Home: index.md
   - Poems: 
       - H: poems/h.md
+  - Dummy:
+      - Hello: dummy/hello.md
