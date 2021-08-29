@@ -60,7 +60,7 @@ markdown_extensions:
       generic: true
 extra:
   generator: false
-  disqus: thearjun
+  disqus: rawbeanspills
   manifest: manifest.webmanifest
   # social:
   #   - icon: fontawesome/brands/linkedin
