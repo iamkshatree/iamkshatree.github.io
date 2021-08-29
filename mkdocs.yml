@@ -60,15 +60,7 @@ markdown_extensions:
       generic: true
 extra:
   generator: false
-  disqus: rawbeanspills
   manifest: manifest.webmanifest
-  # social:
-  #   - icon: fontawesome/brands/linkedin
-  #     link: https://linkedin.com/in/thearjun
-  #   - icon: fontawesome/brands/github
-  #     link: https://github.com/thearjun
-  #   - icon: fontawesome/solid/envelope
-  #     link: mailto:mailarjunadhikari@gmail.com
 
 extra_javascript:
   - javascripts/extra.js
