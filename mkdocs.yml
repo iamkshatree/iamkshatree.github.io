@@ -71,6 +71,8 @@ nav:
   - Home: index.md
   - Poems: 
       - H: poems/h.md
+  - Letters:
+       -Letter 1: letters/letter-1.md
   - More:
       - Apple or Cricket: more/apple-or-cricket.md
 
