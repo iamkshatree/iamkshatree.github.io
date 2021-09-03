@@ -3,11 +3,7 @@
       
       
   # ONE
-
-
-
-
-
+  
 Dear E, 
 
 I wonder if we could be together and live harmoniously. But as it stands, we seem to end up on the opposite sides of each other more often than not, intentionally or unintentionally. There have been times when we have managed to be on the same page but they have been so short-lived. And that makes it all the more painful knowing that magic happens when we are together. I ponder how things could be if we were together to balance each other out. 
