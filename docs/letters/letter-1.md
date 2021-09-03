@@ -1,7 +1,5 @@
-  _"From" and "To" in the letters section will be disclosed when next letter is published. So, feel free to interpret as you wish._  
+  _"From" and "To" in the letters section will be disclosed when next letter is published. So, feel free to interpret as you wish._<br/><br/><br/> 
     
-      
-      
 # ONE
   
 Dear E, 
